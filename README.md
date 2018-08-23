@@ -33,6 +33,10 @@ Once you've got these tools you can
 
 You will need to [fork this repo](https://help.github.com/articles/fork-a-repo/) into your own github account to be able to push changes into it. All you need to do is click the **Fork** button (see below) and you've got your own copy. ![fork button	https://help.github.com/assets/images/help/repository/fork_button.jpg](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-Then you need to [clone the repository](https://help.github.com/articles/cloning-a-repository/) to your local machine. If you're using GitKraken, you can sign in with your Github account to make this easier, [following these instructions](). Make sure that you pick your personal repository so you can push changes back to it (participants have read-only access to the main core-skills repository).
+Then you need to [clone the repository](https://help.github.com/articles/cloning-a-repository/) to your local machine. If you're using GitKraken, you can sign in with your Github account to make this easier, [following these instructions](https://support.gitkraken.com/working-with-repositories/open-clone-init). Make sure that you pick your personal repository so you can push changes back to it (participants have read-only access to the main core-skills repository).
 
 ### Getting set up for the week (do this every week)
+
+All you should need to do is open this repository in GitKraken, hit 'pull' to merge in any new changes and you're good to go.
+
+Then you need to open a terminal... (**todo make this easy**)
